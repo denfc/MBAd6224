@@ -42,9 +42,9 @@
         </p>
       </section>
       
-<div markdown="1">
-   My testtext with **markdown** syntax
-</div>
+    <div markdown="1">
+      My testtext with **markdown** syntax
+    </div>
 
       <footer>
         <p>This project is maintained by <a href="https://github.com/denfc">denfc</a></p>
