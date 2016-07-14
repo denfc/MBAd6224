@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>MBAd6224</title> <!-- shows on the browser tab; formerly had, "by denfc"-->
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>MBAd6224</h1>
+        <p></p>
+
+        <!-- <p class="view"> <a href="https://github.com/denfc/MBAd6224">View the Project on GitHub <small>denfc/MBAd6224</small></a></p> -->
+
+        <ul>
+          <li><a href="https://github.com/denfc/MBAd6224/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/denfc/MBAd6224/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/denfc/MBAd6224">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>
+<a id="MBAd6224" class="anchor" href="#mbad6224" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Introduction To This Page</h1>
+
+<p>12 July 2016</p>
+
+<p>I have always enjoyed having a web page set up for my courses (e.g., <a href="http://267.cioffi.us">267.cioffi.us</a>).  In the four years since I last taught a full course, technology has continued to progress, but my old (very) website, <a href="http://www.cioffi.us">www.cioffi.us</a>, has not progressed.  Its current Google Drive home will not work at the end of next month.  Before moving everything to GitHub (thanks, <a href="http://lorenabarba.com/" class="user-mention" target="_blank">Dr. Barba</a>!), I'm setting up this page for the course (and having fun doing it).  Initially, the page may just list some pdf LaTeX'ed files 'cause that's how I've been working, but more to come. -- dfc</p>
+      </section>
+      <section>
+        <p>
+          <a href="https://drive.google.com/open?id=0ByY6ydNOWOJacWdWa0RKNVJEV2c" target="_blank">Structuring_224.pdf</a></a>
+        </p><p>  
+          <a href="224_Video_Notes_1--14_melted.pdf" target="_blank">My notes on the in-depth videos.</a></a>
+        </p>
+      </section>
+      
+<div markdown="1">
+   My testtext with **markdown** syntax
+</div>
+
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/denfc">denfc</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
